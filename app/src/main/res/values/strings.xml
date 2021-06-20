@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Baitul Maqdis</string>
+    <string name="bm_name">Nama Masjid</string>
+    <string name="bm_detail">Detail</string>
+    <string name="bm_narasumber">Narasumber</string>
+    <string name="about_me">About Me</string>
+    <string name="about_name">Heidy Indrayani</string>
+    <string name="about_email">heidy.indrayani@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="video">Video Pembahasan</string>
+    <string name="pesan">Pesan</string>
+    <string name="alaqsa">Sahabat Al Aqsa</string>
+    <string name="donasi">Donasi</string>
+    <string name="npc">National Palestina Center</string>
+    <string name="splash_name">Mari Kita Bebaskan Baitul Maqdis</string>
+    <string name="visit_link">Visit link</string>
+    <string name="see_detail">See Detail</string>
+    <string name="pesan_buku">Pesan Buku</string>
+    <string name="lihat_detail">Lihat Detail</string>
+    <string name="video_pembahasan">Video Pembahasan</string>
+</resources>
